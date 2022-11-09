@@ -38,6 +38,7 @@ I'm full-stack developer and content creator building my version of the digital 
 
 #
 
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
 
 
 ### 📊 Stats
